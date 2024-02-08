@@ -4,6 +4,10 @@
 
 MedFlow is a Power BI dashboard designed to optimize healthcare efficiency by providing real-time tracking and in-depth analysis of patient waiting lists. The dashboard utilizes data transformation, modeling, and visualization techniques to offer insights into waiting list trends, specialties, and age profiles.
 
+## Dataset Description
+
+The dataset used in MedFlow encompasses publicly available healthcare data related to patient waiting lists. It comprises two primary categories: inpatient and outpatient. In the context of this analysis, an inpatient is a patient admitted for treatment, while an outpatient undergoes treatment on the same day without hospital admission.
+
 ## Features
 
 - **Data Transformation:** The dashboard employs data transformation techniques to ensure accurate representation of healthcare data, including inpatient and outpatient categories.
@@ -22,5 +26,5 @@ MedFlow is a Power BI dashboard designed to optimize healthcare efficiency by pr
 ## Requirements
 
 - Power BI Desktop
-- Healthcare data (provided in the linked description)
+- Healthcare data (provided in the repository)
 
